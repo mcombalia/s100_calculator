@@ -1,0 +1,12 @@
+.idea/S100.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+main.py
+main_gui.py
+output_dir/
+test.py
+test2.py
+test3.py
+test4.py
+to_pdf.py
